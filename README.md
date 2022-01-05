@@ -6,7 +6,7 @@ If you want to see the demo of this proyect deployed, you can visit [Demo of the
 
 ## How to clone
 If you have special requirements, you have to list it step by step.
-* git clone https://market-list-rp11.netlify.app/
+* git clone https://github.com/rockop11/market-list.git
 * npm i (install all the dependencies)
 * run it with "npm start" (check it on localhost:3000)
 
